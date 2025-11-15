@@ -6,6 +6,7 @@ AI-powered legal marketplace integrating Reinforcement Learning, Fuzzy Logic, an
 
 ## Project output
 ![image alt](https://raw.githubusercontent.com/DineshKumar9080/AI-Based-Legal-Service-Provider/main/Home%20Page.png)
+![image alt](https://github.com/DineshKumar9080/AI-Based-Legal-Service-Provider/blob/e0f8daa43d6a25d034071bee425d8b75307267a1/Legal%20Provider%20Info%20Page.png)
 ![image alt](https://github.com/DineshKumar9080/AI-Based-Legal-Service-Provider/blob/f64bf4e32b4ae23c3033251ccabd81f34010d494/Booking%20Confirmation%20Page.png)
 ## How can I edit this code?
 
