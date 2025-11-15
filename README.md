@@ -49,4 +49,4 @@ This project is an AI-powered legal marketplace that simplifies access to legal 
 
 ### **📩 Booking Confirmation Page**
 
-![Booking Confirmation Page.png](attachment:674d8b3f-3d8b-4991-8740-52768b3ec33e:Booking_Confirmation_Page.png)
+![image alt](https://github.com/DineshKumar9080/AI-Based-Legal-Service-Provider/blob/6bdaa320de078b9bcaad056c3d85ed2e2daebe84/Booking%20Confirmation%20Page.png)
