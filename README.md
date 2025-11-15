@@ -1,12 +1,12 @@
-📚 AI-Based Legal Service Provider – Intelligent Legal Assistance Platform
+# 📚 **AI-Based Legal Service Provider – Intelligent Legal Assistance Platform**
 
 This project is an AI-powered legal marketplace that simplifies access to legal services. It combines Reinforcement Learning, Fuzzy Logic, and Blockchain concepts to enhance transparency, fairness, and reward distribution. Built with React, TypeScript, Python, Tailwind, and Chatbase, the platform offers chatbot-driven guidance, provider recommendations, sentiment-based feedback analysis, and automated booking—delivering a scalable, real-time legal assistance experience.
 
 ---
 
-🚀 Key Features
+## 🚀 **Key Features**
 
-✔ Modern AI-Powered Platform
+### ✔ Modern AI-Powered Platform
 
 - Reinforcement Learning reward system
 - Fuzzy Logic for dynamic provider scoring
@@ -14,7 +14,7 @@ This project is an AI-powered legal marketplace that simplifies access to legal 
 - Sentiment analysis for user feedback
 - Blockchain-inspired transparency model
 
-✔ User-Centric Legal Marketplace
+### ✔ User-Centric Legal Marketplace
 
 - Search and view legal providers
 - Interactive provider profiles
@@ -22,12 +22,12 @@ This project is an AI-powered legal marketplace that simplifies access to legal 
 - Secure appointment booking
 - Real-time confirmation and tracking
 
-✔ Technologies Used
+### ✔ Technologies Used
 
-- React + TypeScript
-- Vite
-- Tailwind CSS
-- shadcn-ui
+- **React + TypeScript**
+- **Vite**
+- **Tailwind CSS**
+- **shadcn-ui**
 - **Python (ML & backend logic)**
 - **Chatbase chatbot integration**
 
