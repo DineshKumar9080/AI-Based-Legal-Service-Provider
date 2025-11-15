@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # AI-Based-legal-service
 AI-powered legal marketplace integrating Reinforcement Learning, Fuzzy Logic, and Blockchain to enhance transparency and incentive fairness. Built using React, TypeScript, Python, and Chatbase, featuring chatbot-driven assistance, feedback sentiment analysis, and adaptive reward systems for scalable, real-time legal service delivery.
 =======
@@ -56,3 +57,6 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
+=======
+# AI-Based-Legal-Service-Provider
+>>>>>>> d9b8f352583e156e2baf6f3d6fa3bceff538fe06
