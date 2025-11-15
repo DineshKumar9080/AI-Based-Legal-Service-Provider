@@ -48,3 +48,5 @@ This project is an AI-powered legal marketplace that simplifies access to legal 
 ![Provider Recommendations Page.png](attachment:9608e3be-5425-4960-8ffc-dbfb3d159f65:Provider_Recommendations_Page.png)
 
 ### **📩 Booking Confirmation Page**
+
+![Booking Confirmation Page.png](attachment:674d8b3f-3d8b-4991-8740-52768b3ec33e:Booking_Confirmation_Page.png)
