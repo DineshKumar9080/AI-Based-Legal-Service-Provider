@@ -41,7 +41,7 @@ This project is an AI-powered legal marketplace that simplifies access to legal 
 
 ### **📄 Provider Info Page**
 
-[!(https://github.com/DineshKumar9080/AI-Based-Legal-Service-Provider/blob/42075a12eb7386fe46ad139ee6841344c82b4bac/Legal%20Provider%20Info%20Page.png)]
+![image alt](https://github.com/DineshKumar9080/AI-Based-Legal-Service-Provider/blob/42075a12eb7386fe46ad139ee6841344c82b4bac/Legal%20Provider%20Info%20Page.png)
 
 ### **🤖 Recommended Providers Page**
 
